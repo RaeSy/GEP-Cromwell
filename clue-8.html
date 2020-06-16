@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escape Treasure Hunt Game</title>
+    <link rel = "Stylesheet" href = "app.css">
+</head>
+<body class = "body">
+    <button id = "hint8" class = "hint" onclick = "hint8()">Hint</button>
+   <h1 id = "Clue-8">Clue 8:</h1> 
+   <h2 id = "Task8">What has disappeared?</h2>
+   <p id = "Text8">How to find the clue:</p>
+   <ul id = "Clue8">
+       <li>Unfortunately, during this time she actually commited a theft.</li>
+       <li>This time it was from the museum we found her in</li>
+       <li>She has taken something once belonging to a surveyor</li>
+       <li>What has she taken?</li>
+   </ul>
+   <form id = "answer8" name = "8thanswer" action="clue-9.html" onsubmit="return validateAnswer8()">
+       <input type = "text" name = "ans" placeholder = "Answer">
+       <input type = "submit" value = "Enter">
+   </form>
+   <p id="incorrect8"></p>
+   <script src="app.js"></script>
+</body>
+</html>

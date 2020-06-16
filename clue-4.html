@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escape Treasure Hunt Game</title>
+    <link rel = "Stylesheet" href = "app.css">
+</head>
+<body class = "body">
+    <button id = "hint4" class = "hint" onclick = "hint4()">Hint</button>
+   <h1 id = "Clue-4">Clue 4:</h1> 
+   <h2 id = "Task4">Find out the perpetrator's full name!</h2>
+   <p id = "Text4">How to find the clue:</p>
+   <ul id = "Clue4">
+       <li>There is a type of window that is 10 metres in diameter. This type is the first name.</li>
+       <li>To find their surname, go to the nearby metro station on street view.</li>
+       <li>There is a city on a sign. Let's go to that city</li>
+       <li>Within the green mountain of this city, there is a canal.</li>
+       <li>Follow the canal until you find Etang Marcel. The final word in this location is the surname.</li>
+       <li>Names should have capital letters</li>
+   </ul>
+   <form id = "answer4" name = "4thanswer" action="clue-5.html" onsubmit="return validateAnswer4()">
+       <input type = "text" name = "ans" placeholder = "Answer">
+       <input type = "submit" value = "Enter">
+   </form>
+   <p id="incorrect4"></p>
+   <script src="app.js"></script>
+</body>
+</html>

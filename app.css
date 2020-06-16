@@ -1,0 +1,339 @@
+h1{
+    margin-left: 425px;
+    color: lightskyblue;
+    font-size: 40px;
+}
+#bodyOriginal{
+    background-color: aliceblue;
+}
+h2{
+    margin-left: 350px;
+    color: darkturquoise;
+    font-size: 30px;
+    margin-top: 40px;
+}
+#Explain{
+margin-left: 275px;
+margin-top: 40px;
+color: lightseagreen;
+}
+ul{
+    margin-left: 600px;
+    font-size: 20px;
+    margin-top: 40px;
+    color: cadetblue;
+}
+#Ready{
+    margin-left: 50px;
+    margin-top: 40px;
+    color: teal;
+}
+button{
+    margin-top: 30px;
+    margin-left: 700px;
+    font-size: 25px;
+    color: darkslategray;
+}
+p{
+    font-size: 25px;
+}
+
+#Clue-1{
+color: Azure;
+margin-left: 575px;
+}
+
+#Task1{
+    color: cornsilk;
+    margin-left: 500px;
+}
+#Text1{
+    color: honeydew;
+    margin-left: 475px;
+}
+#Clue1{
+    color: lemonchiffon;
+    margin-left: 500px;
+}
+.body{
+    background-color:black;
+}
+
+#answer1{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.hint{
+    margin-left: 1450px;
+    margin-top: 15px;
+    color: midnightblue;
+}
+
+#incorrect1{
+    color: lavender;
+    margin-left: 650px;
+}
+#incorrect2{
+    color: lavender;
+    margin-left: 650px;
+}
+#answer2{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#Clue2{
+    margin-left: 500px;
+}
+#Clue-2{
+    margin-left: 650px;
+}
+#Task2{
+    margin-left: 450px;
+}
+#Text2{
+    color: lightblue;
+    margin-left: 500px;
+}
+#hint2{
+    color: mediumblue;
+}
+
+#incorrect3{
+    color: lavender;
+    margin-left: 650px;
+}
+#answer3{
+    color: blanchedalmond;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#Clue3{
+    color: antiquewhite;
+    margin-left: 400px;
+}
+#Clue-3{
+    color: bisque;
+    margin-left: 650px;
+}
+#Task3{
+    color: palegoldenrod;
+    margin-left: 450px;
+    margin-top: 0px;
+}
+#Text3{
+    color: lightgoldenrodyellow;
+    margin-left: 450px;
+}
+
+#incorrect4{
+    color: chartreuse;
+    margin-left: 650px;
+}
+#answer4{
+    color: lightgreen;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+#Clue4{
+    color: green;
+    margin-left: 400px;
+}
+#Clue-4{
+    color: springgreen;
+    margin-left: 650px;
+}
+#Task4{
+    color: palegreen;
+    margin-left: 500px;
+    margin-top: 0px;
+}
+#Text4{
+    color: seagreen;
+    margin-left: 400px;
+}
+#hint4{
+    color: darkolivegreen;
+}
+
+#incorrect5{
+    color: blueviolet;
+    margin-left: 650px;
+}
+#answer5{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+#Clue5{
+    color: darkorchid;
+    margin-left: 400px;
+}
+#Clue-5{
+    color: darkviolet;
+    margin-left: 650px;
+}
+#Task5{
+    color: mediumpurple;
+    margin-left: 450px;
+    margin-top: 0px;
+}
+#Text5{
+    color: rebeccapurple;
+    margin-left: 400px;
+}
+#hint5{
+    color: indigo;
+}
+
+#incorrect6{
+    color: turquoise;
+    margin-left: 650px;
+}
+#answer6{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#Clue6{
+    color: mediumturquoise;
+    margin-left: 500px;
+}
+#Clue-6{
+    color: teal;
+    margin-left: 650px;
+}
+#Task6{
+    color: cyan;
+    margin-left: 550px;
+    margin-top: 0px;
+}
+#Text6{
+    color: aquamarine;
+    margin-left: 500px;
+}
+#hint6{
+    color: darkcyan;
+}
+
+#incorrect7{
+    color: burlywood;
+    margin-left: 650px;
+}
+#answer7{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#Clue7{
+    color: coral;
+    margin-left: 500px;
+}
+#Clue-7{
+    color: darksalmon;
+    margin-left: 500px;
+}
+#Task7{
+    color: lightsalmon;
+    margin-left: 500px;
+    margin-top: 0px;
+}
+#Text7{
+    color: lightcoral;
+    margin-left: 500px;
+}
+#hint7{
+    color: darkgoldenrod;
+}
+
+#incorrect8{
+    color: darkgrey;
+    margin-left: 650px;
+}
+#answer8{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#Clue8{
+    color: dimgrey;
+    margin-left: 500px;
+}
+#Clue-8{
+    color: grey;
+    margin-left: 600px;
+}
+#Task8{
+    color: lightslategrey;
+    margin-left: 500px;
+    margin-top: 0px;
+}
+#Text8{
+    color: lightgrey;
+    margin-left: 500px;
+}
+#hint8{
+    color: darkslategray;
+}
+
+#incorrect9{
+    color: cadetblue;
+    margin-left: 650px;
+}
+#answer9{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#Clue9{
+    color: cornflowerblue;
+    margin-left: 550px;
+}
+#Clue-9{
+    color: aquamarine;
+    margin-left: 600px;
+}
+#Task9{
+    color: lightblue;
+    margin-left: 550px;
+    margin-top: 0px;
+}
+#Text9{
+    color: powderblue;
+    margin-left: 550px;
+}
+
+#incorrect10{
+    color: wheat;
+    margin-left: 650px;
+}
+#answer10{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+#Clue10{
+    color: tan;
+    margin-left: 550px;
+}
+#Clue-10{
+    color: sandybrown;
+    margin-left: 600px;
+}
+#Task10{
+    color: peru;
+    margin-left: 550px;
+    margin-top: 0px;
+}
+#Text10{
+    color: saddlebrown;
+    margin-left: 550px;
+}
+#hint10{
+    color: sienna;
+}
+#bodyEnd{
+    background-color: thistle;
+}
+#Complete{
+    color: rosybrown;
+}
+#police{
+    color: darkviolet;
+}
+#part2{
+    color: darkmagenta;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escape Treasure Hunt Game</title>
+    <link rel = "Stylesheet" href = "app.css">
+</head>
+<body class = "body">
+    <button id = "hint2" class = "hint" onclick = "hint2()">Hint</button>
+   <h1 id = "Clue-2">Clue 2:</h1> 
+   <h2 id = "Task2">Find out the hint towards the perpetrator's name!</h2>
+   <p id = "Text2">How to find the clue:</p>
+   <ul id = "Clue2">
+       <li>Using Street View, go along St. Mary's Street.</li>
+       <li>Go straight past the cathedral until you find a pub sign</li>
+       <li>The blackboard sign outside a pub says a direction, go in the opposite of this direction</li>
+       <li>You will come across a lane, this is a hint to their name</li>
+       <li>What is the name of the lane?(The answer starts with a capital letter, and lane is not part of it)</li>
+   </ul>
+   <form id = "answer2" name = "2ndanswer" action="clue-3.html" onsubmit="return validateAnswer2()">
+       <input type = "text" name = "ans" placeholder = "Answer">
+       <input type = "submit" value = "Enter">
+   </form>
+   <p id="incorrect2"></p>
+   <script src="app.js"></script>
+</body>
+</html>

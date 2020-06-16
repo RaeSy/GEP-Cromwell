@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escape Treasure Hunt Game</title>
+    <link rel = "Stylesheet" href = "app.css">
+</head>
+<body class = "body">
+    <button id = "hint10" class = "hint" onclick = "hint10()">Hint</button>
+   <h1 id = "Clue-10">Clue 10:</h1> 
+   <h2 id = "Task10">Help us get her back to the UK</h2>
+   <ul id = "Clue10">
+       <li>Thanks to your help, we have apprehended her</li>
+       <li>We need to get her back to Ely, UK</li>
+       <li>We can only fly to Marshall's airport</li>
+       <li>Unfortunately, the name of this airport has changed, can you find out what it is?</li>
+       <li>Reminder: Names have capital letters</li>
+   </ul>
+   <form id = "answer10" name = "10thanswer" action="end.html" onsubmit="return validateAnswer10()">
+       <input type = "text" name = "ans" placeholder = "Answer">
+       <input type = "submit" value = "Enter">
+   </form>
+   <p id="incorrect10"></p>
+   <script src="app.js"></script>
+</body>
+</html>
